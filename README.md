@@ -1,1 +1,1 @@
-# CompuKids-MoodleMobile
+# CompuKids Moodle Mobile application!
