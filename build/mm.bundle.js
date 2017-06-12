@@ -11263,7 +11263,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: 'learn.compukids.me',
+            siteurl: 'http://197.242.155.234/~compukids/learn',
             username: '',
             urltoopen: '', 
             siteconfig: null
@@ -17438,7 +17438,7 @@ angular.module('mm.core.login')
 angular.module('mm.core.login')
 .controller('mmLoginSiteCtrl', ["$scope", "$state", "$mmSitesManager", "$mmUtil", "$ionicHistory", "$mmApp", "$ionicModal", "$ionicPopup", "$mmLoginHelper", "$q", function($scope, $state, $mmSitesManager, $mmUtil, $ionicHistory, $mmApp, $ionicModal, $ionicPopup,
         $mmLoginHelper, $q) {
-    $scope.siteurl = 'learn.compukids.me';
+    $scope.siteurl = 'http://197.242.155.234/~compukids/learn';
     $scope.connect = function(url) {
         $mmApp.closeKeyboard();
         if (!url) {
