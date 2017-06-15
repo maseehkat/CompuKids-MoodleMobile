@@ -553,7 +553,7 @@
     "mm.login.checksiteversion": "Check that your site uses Moodle 2.4 or later.",
     "mm.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "mm.login.connect": "Log In",
-    "mm.login.connecttomoodle": "CompuKids",
+    "mm.login.connecttomoodle": " ",
     "mm.login.contactyouradministrator": "Contact your site administrator for further help.",
     "mm.login.contactyouradministratorissue": "Please, ask the administrator to check the following issue: {{$a}}",
     "mm.login.createaccount": "Create My New Account",

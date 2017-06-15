@@ -14063,6 +14063,79 @@ ion-popover-view {
 
 /*==================== CUSTOM CSS ====================*/
 
+/*========== SITE [PRE-LOGIN] ==========*/
+
+#mm-login-site {
+    background: #2196f3;
+}
+
+.mm-mm_login_site .box {
+    padding: 16px;
+    background: transparent;
+    border: 0px solid #dddddd;
+}
+
+.mm-mm_login_site .box p {
+    color: #ffffff;
+}
+
+.mm-mm_login_site .button.button-positive {
+    border-color: #f69632;
+    background-color: #f69632;
+    color: #ffffff;
+}
+
+.mm-mm_login_site .button.button-positive.activated {
+    border-color: #f98710;
+    background-color: #f98710;
+    color: #ffffff;
+}
+
+.mm-mm_login_site .button-outline.button-outline {
+    border-color: #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.mm-mm_login_site .button-outline.button-outline.activated {
+    border-color: #ffffff;
+    background-color: #098bf3;
+    color: #ffffff;
+}
+
+/*========== LOGIN ==========*/
+
+.mm-mm_login_credentials {
+    background: #2196f3;
+}
+
+.mm-mm_login_credentials .box {
+    padding: 16px;
+    background: transparent;
+    border: 0px solid #dddddd;
+}
+
+.mm-mm_login_credentials .item.item-text-wrap.text-center.item-borderless {
+    background: transparent;
+}
+
+.mm-mm_login_credentials .list.item.item-input {
+    border: 0px;
+    border-radius: 5px;
+}
+
+.mm-mm_login_credentials .button.button-positive {
+    border-color: #f69632;
+    background-color: #f69632;
+    color: #ffffff;
+}
+
+.mm-mm_login_credentials .button.button-positive.activated {
+    border-color: #f98710;
+    background-color: #f98710;
+    color: #ffffff;
+}
+
 /*========== LESSON ==========*/
 
 .go-quiz-button {
